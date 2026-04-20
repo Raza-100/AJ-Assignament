@@ -1,67 +1,123 @@
-1. Color Search
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/ColorSearch.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/Colorsearch.png
+# Advanced Java Assignment - Lab 1
 
-2. Delete Nth Element
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/DeleteNthElement.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/DeleteNthElement.png
+This repository contains Java programs demonstrating the use of:
+- List Interface (ArrayList & LinkedList)
+- ArrayList Operations
+- LinkedList Operations
 
-3. Display Position
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/DisplayPosition.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/DisplayPosition.png
+Each program includes source code and corresponding output screenshots.
 
-4. Insert At End
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/InsertAtEnd.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/insertAtEnd.png
+---
 
-5. Linked List Iterator
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/LinkedListIteratorExample.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/LinkedListIterator.png
+## 🔹 1. List Interface Demo
 
-6. List Interface Demo
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/ListInterfaceDemo.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/ListInterfaceDemo.png
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/ListInterfaceDemo.java
 
-7. Remove Color
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/RemoveColor.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/RemoveColor.png
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/ListInterfaceDemo.png
 
-8. Reverse Linked List
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/ReverseLinkedList.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/ReverseLinkedList.png
+---
 
-9. Sort Colors
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/SortColors.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/SortColors.png
+## 🔹 2. Color Search (ArrayList)
 
-10. SubList Example
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/SubListExample.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/SubListExample.png
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/ColorSearch.java
 
-11. Swap Elements
-Code:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/SwapElements.java
-Output:
-https://github.com/Raza-100/Advanced-Java-Assignment/blob/main/Lab1/SwapElements.png
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/Colorsearch.png
 
+---
 
+## 🔹 3. Remove Color
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/RemoveColor.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/RemoveColor.png
+
+---
+
+## 🔹 4. Sort Colors
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/SortColors.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/SortColors.png
+
+---
+
+## 🔹 5. SubList Example
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/SubListExample.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/SubListExample.png
+
+---
+
+## 🔹 6. Delete Nth Element
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/DeleteNthElement.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/DeleteNthElement.png
+
+---
+
+## 🔹 7. Insert At End
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/InsertAtEnd.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/insertAtEnd.png
+
+---
+
+## 🔹 8. Display Position
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/DisplayPosition.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/DisplayPosition.png
+
+---
+
+## 🔹 9. Reverse LinkedList
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/ReverseLinkedList.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/ReverseLinkedList.png
+
+---
+
+## 🔹 10. Swap Elements
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/SwapElements.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/SwapElements.png
+
+---
+
+## 🔹 11. LinkedList Iterator Example
+
+### Code:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/LinkedListIteratorExample.java
+
+### Output:
+https://github.com/Raza-100/AJ-Assignment/blob/main/Lab1/LinkedListIterator.png
+
+---
+
+# ✅ Conclusion
+This lab demonstrates practical implementation of List Interface, ArrayList, and LinkedList operations in Java with outputs.

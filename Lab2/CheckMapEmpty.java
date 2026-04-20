@@ -1,0 +1,32 @@
+package basic2;
+
+import java.util.*;
+
+public class CheckMapEmpty {
+
+    public static void main(String[] args) {
+
+        // Create HashMap
+        HashMap<Integer, String> map = new HashMap<>();
+
+        // Add elements
+        map.put(1, "Red");
+        map.put(2, "Green");
+        map.put(3, "Black");
+        map.put(4, "White");
+        map.put(5, "Blue");
+
+        // Check if empty after adding
+        System.out.println("After adding elements:");
+        System.out.println("Map: " + map);
+        System.out.println("Is map empty? " + map.isEmpty());
+
+        // Remove all elements
+        map.clear();
+
+        // Check again
+        System.out.println("\nAfter removing all elements:");
+        System.out.println("Map: " + map);
+        System.out.println("Is map empty? " + map.isEmpty());
+    }
+}
